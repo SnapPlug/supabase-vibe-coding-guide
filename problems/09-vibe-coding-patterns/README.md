@@ -7,7 +7,9 @@ Supabase 특화가 아닌, **AI와 함께 백엔드를 개발할 때** 반복적
 
 | # | 제목 | 심각도 | 상태 |
 |---|------|--------|------|
-| - | (문제 발견 시 추가) | - | - |
+| [007](./001-anon-key-data-exposure.md) | anon 키 데이터 노출 + 콘솔로그 민감정보 찍힘 | 🔴 Critical | 정리됨 |
+| [009](./002-free-tier-traps.md) | Free 플랜 3가지 함정: 자동백업 없음 / 1주 정지 / Queue·Cron 지옥 | 🟠 High | 정리됨 |
+| [010](./003-rpc-transaction-antipattern.md) | 트랜잭션에 RPC(DB 함수) 남용 → 유지보수 불가 | 🟠 High | 정리됨 |
 
 ## 바이브코딩의 구조적 취약점
 

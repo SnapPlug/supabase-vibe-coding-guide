@@ -17,6 +17,9 @@ AI는 이 맥락 없이 코드를 생성하기 때문에 보안 구멍이 생기
 | [001](./001-rls-disabled-by-default.md) | RLS 비활성화 상태로 테이블 생성 | 🔴 Critical | 정리됨 |
 | [002](./002-rls-vibe-coding-antipatterns.md) | 바이브코딩 AI가 만드는 RLS 안티패턴 | 🔴 Critical | 정리됨 |
 | [003](./003-rls-testing.md) | RLS 정책 테스트 방법 | 🟠 High | 정리됨 |
+| [004](./004-rls-allow-star-antipattern.md) | allow * 로 시작해서 나중에 좁히려다 구멍이 남 | 🔴 Critical | 정리됨 |
+| [005](./005-rls-correct-role.md) | RLS에 복잡한 비즈니스 로직을 넣으려는 시도 | 🟠 High | 정리됨 |
+| [006](./006-rls-direct-client-migration-lockin.md) | RLS 직접 연결 구조로 인한 DB 마이그레이션 락인 | 🟠 High | 정리됨 |
 
 ## 핵심 원칙
 
