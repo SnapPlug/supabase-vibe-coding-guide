@@ -14,8 +14,9 @@
 | 008 | RLS | [RLS 직접 연결 구조로 인한 DB 마이그레이션 락인](./problems/01-rls/006-rls-direct-client-migration-lockin.md) | 🟠 | 정리됨 |
 | 009 | 바이브코딩 패턴 | [Free 플랜 3가지 함정: 자동백업 없음 / 1주 정지 / Queue·Cron 지옥](./problems/09-vibe-coding-patterns/002-free-tier-traps.md) | 🟠 | 정리됨 |
 | 010 | 바이브코딩 패턴 | [트랜잭션에 RPC(DB 함수) 남용 → 유지보수 불가](./problems/09-vibe-coding-patterns/003-rpc-transaction-antipattern.md) | 🟠 | 정리됨 |
+| 011 | 바이브코딩 패턴 | [클라이언트 직접 호출 — API 레이어 없이 RLS만 믿는 구조](./problems/09-vibe-coding-patterns/004-api-rls-dual-layer.md) | 🟠 | 정리됨 |
 
 ---
 
-총 문제 수: **10개**
-마지막 업데이트: 2026-04-12
+총 문제 수: **11개**
+마지막 업데이트: 2026-04-13
